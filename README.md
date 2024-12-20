@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hyacinth! <br/><a href="https://github.com/HycnthLfrnc">Programmer</a>, <a href="https://www.linkedin.com/in/lofranco-hyacinth-224684323/">Real Estate Agent</a>, <a 
+<h1>Hi, I'm Hyacinth! <br/><a href="https://github.com/HycnthLfrnc">Programmer</a>, <a href="https://www.linkedin.com/in/lofranco-hyacinth-224684323/">Real Estate Agent</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
